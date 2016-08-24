@@ -1,0 +1,2 @@
+# Karty_
+Kolekcje generyczne
